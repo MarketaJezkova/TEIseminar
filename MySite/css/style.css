@@ -1,0 +1,11 @@
+tei-head {
+  color: green;
+  text-align: center;
+
+  }
+  tei-head:before {
+    content: "("
+  }
+  tei-head:after }
+    content: ")"
+  }
